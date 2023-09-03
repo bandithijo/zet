@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the source and destination directories
-const sourceDirectory = '.';
+const sourceDirectory = './notes';
 const destinationFile = 'DEX.md';
 
 // Initialize an array to store the formatted headers
@@ -46,7 +46,7 @@ function traverseDirectory(directoryPath) {
 traverseDirectory(sourceDirectory);
 
 // Add the DEX header
-formattedHeaders.unshift(`# DEX\n`);
+formattedHeaders.unshift(`# DEX`);
 
 // Write the formatted headers to the destination file
 fs.writeFileSync(destinationFile, formattedHeaders.join('\n'), 'utf8');
