@@ -22,12 +22,12 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.0.0	/p6.0.20221218.0/
-bash	notes/2023-09-05-00-45-11.md	/^$/;"	t
-git	notes/2023-09-03-16-45-37.md	/^$/;"	t
-jekyll	notes/2023-09-03-16-42-20.md	/^$/;"	t
-notetaking	notes/2023-09-03-15-15-44.md	/^$/;"	t
-rails	notes/2019-10-09-18-57-28.md	/^$/;"	t
-rails	notes/2019-10-09-21-30-58.md	/^$/;"	t
-rails	notes/2023-09-03-16-25-26.md	/^$/;"	t
-ruby	notes/2019-10-12-23-02-06.md	/^$/;"	t
-tmux	notes/2023-09-03-16-44-08.md	/^$/;"	t
+Bash	notes/2023-09-05-00-45-11.md	/^$/;"	t
+Git	notes/2023-09-03-16-45-37.md	/^$/;"	t
+Jekyll	notes/2023-09-03-16-42-20.md	/^$/;"	t
+NoteTaking	notes/2023-09-03-15-15-44.md	/^$/;"	t
+Rails	notes/2019-10-09-18-57-28.md	/^$/;"	t
+Rails	notes/2019-10-09-21-30-58.md	/^$/;"	t
+Rails	notes/2023-09-03-16-25-26.md	/^$/;"	t
+Ruby	notes/2019-10-12-23-02-06.md	/^$/;"	t
+Tmux	notes/2023-09-03-16-44-08.md	/^$/;"	t
