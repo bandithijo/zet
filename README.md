@@ -8,3 +8,5 @@ I'm using neovim with [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc
 > -- Furkan Uzumcu
 
 Index article on `:ZkBrowse`
+
+I'm using timestamp format `%Y%m%d%H%M%S` as Uniq Identifier ID.
