@@ -22,6 +22,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.0.0	/p6.0.20221218.0/
+ActiveRecord	notes/20230912194217.md	/^#Rails #ActiveRecord #NestedAttributes$/;"	t
 Bash	notes/20230905004511.md	/^$/;"	t
 Git	notes/20230903164537.md	/^$/;"	t
 Git	notes/20230906183201.md	/^$/;"	t
@@ -30,6 +31,7 @@ Git	notes/20230906222256.md	/^$/;"	t
 Git	notes/20230907193615.md	/^$/;"	t
 Jekyll	notes/20230903164220.md	/^$/;"	t
 Markdown	notes/20230907145411.md	/^$/;"	t
+NestedAttributes	notes/20230912194217.md	/^#Rails #ActiveRecord #NestedAttributes$/;"	t
 NoteTaking	notes/20230903151544.md	/^$/;"	t
 Nvim	notes/20230907215551.md	/^#Vim #Nvim$/;"	t
 Rails	notes/20191009185728.md	/^$/;"	t
