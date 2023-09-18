@@ -24,6 +24,7 @@
 !_TAG_PROGRAM_VERSION	6.0.0	/p6.0.20221218.0/
 ActiveRecord	notes/20230912194217.md	/^#Rails #ActiveRecord #NestedAttributes$/;"	t
 Bash	notes/20230905004511.md	/^$/;"	t
+FactoryBot	notes/20230918151026.md	/^#Rails #FactoryBot$/;"	t
 Git	notes/20230903164537.md	/^$/;"	t
 Git	notes/20230906183201.md	/^$/;"	t
 Git	notes/20230906214427.md	/^$/;"	t
@@ -43,6 +44,7 @@ Rails	notes/20191009213058.md	/^$/;"	t
 Rails	notes/20230903162526.md	/^$/;"	t
 Rails	notes/20230912194217.md	/^$/;"	t
 Rails	notes/20230914074316.md	/^$/;"	t
+Rails	notes/20230918151026.md	/^$/;"	t
 Regex	notes/20230916174141.md	/^$/;"	t
 Ruby	notes/20191012230206.md	/^$/;"	t
 Tmux	notes/20230903164408.md	/^$/;"	t
