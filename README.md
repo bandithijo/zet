@@ -1,4 +1,4 @@
-# BanditHijo's Zettelkasten
+# 🗃️ BanditHijo's Zettelkasten
 
 Hi, I'm Rizqi Nur Assyaufi. This is my personal (modified) **Zettelkasten** 🗃️. It contains stuff on pretty much any topic I feel like writing about.
 
