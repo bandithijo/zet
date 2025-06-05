@@ -117,9 +117,13 @@ arduino	notes/20231205133103.md	/^$/;"	t
 arduino	notes/20240422234624.md	/^$/;"	t
 arduino	notes/20240423002648.md	/^$/;"	t
 arduino	notes/20250605114121.md	/^$/;"	t
+arduino	notes/20250605115018.md	/^$/;"	t
 css	notes/20240915220541.md	/^$/;"	t
 css	notes/20240916024249.md	/^$/;"	t
 include	notes/20250605114121.md	/^```cpp$/;"	t
+include	notes/20250605115018.md	/^#include <Arduino.h>$/;"	t
+include	notes/20250605115018.md	/^#include <Wire.h>$/;"	t
+include	notes/20250605115018.md	/^```cpp$/;"	t
 makefile	notes/20240423002648.md	/^#arduino #makefile$/;"	t
 openSUSE	notes/20230921194201.md	/^$/;"	t
 openSUSE	notes/20230923103301.md	/^$/;"	t
